@@ -1,6 +1,6 @@
 pkg_name=nodejs_demo
 pkg_origin=yonkornilov-03-25
-pkg_version="0.3.5"
+pkg_version="0.3.6"
 pkg_scaffolding="core/scaffolding-node"
 
 
